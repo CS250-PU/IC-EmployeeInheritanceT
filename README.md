@@ -18,7 +18,7 @@
 
 8. Implement SalariedEmployee.
 
-9. Create a dynamically allocated SalariedEmployee pointed to be the variable pcSalariedEmployee. Output the SalariedEmployee data to the display.
+9. Create a dynamically allocated SalariedEmployee pointed to by the variable pcSalariedEmployee. Output the SalariedEmployee data to the display.
 
 10. Run "make valgrind" to make sure you have no memory leaks.
 
